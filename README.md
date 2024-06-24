@@ -1,5 +1,1 @@
-# algo
-# algo
-# algo
-# Algosmt2
-# Algosmt2
+# bang algo bang
